@@ -1,0 +1,125 @@
+CREDITS
+
+Mod made by Codex. (u/realcodex on Reddit)
+
+SPECIAL THANKS
+
+Team Salvato for Doki Doki Literature Club! Go support the game at https://ddlc.moe/ or on Steam.
+
+iiTzWolfyy for being my main RenPy helpline. Starting out, RenPy was a fairly new concept for me, and iiTzWolfyy was a great source when I needed help with anything coding wise. Check out 'Doki Doki: The Renewal', which is his mod!
+
+Markiplier for getting me into DDLC in the first place. My first ever peek into DDLC was with his playthrough.
+
+Bronya-Rand for Doki Doki Mod Maker and the mod template.
+
+DDMC Discord and Subreddit for all the help and support!
+
+####################
+
+MUSIC and SFX CREDIT
+
+< e s c p > for "Midnight Room". Artist links: https://www.escp.space and https://escp-music.bandcamp.com.
+
+AjTheFunky for the hover and select sounds.
+
+Hayden Folker for "Surrounded". | https://soundcloud.com/hayden-folker Music promoted by https://www.free-stock-music.com Creative Commons / Attribution 3.0 Unported License (CC BY 3.0) https://creativecommons.org/licenses/by/3.0/deed.en_US
+
+Idonom for the transition sound effects.
+
+John Rod Dondoyano for "Chasing Cars" (Menu Theme) and "Iris" (Credits Theme).
+
+L4w1i3t for the alarm sound effect.
+
+Wretched Team for "Motion Picture Soundtrack", "True Love Waits", "Set Myself on Fire", "You and Whose Army". Songs are credited in the order they were played in the mod. All songs from Exit Music Redux.
+
+####################
+
+SPRITES CREDIT
+
+Chronos, Yagamirai, Terra, DiabloGraves for Mood Posing Tool (MPT).
+
+Cyrke and Danko for the Kotonoha sprites and assets.
+
+Etched for the swimsuit sprites and iiTzWolfyy for the MPT.
+
+Bronya_Rand, Bronya_Rand's Dad & Cyrke for Libitina. Made for the mod "The True Reality". Credit to Lecraftx9 and P_Xeno for the swimsuit.
+
+JohnRDVSMarston for Sayori's depressive side sprites.
+
+Kutaba_ree, SYwaves, Donkyhotay (GREEN) for the Ms. Ida sprites and Elckarow for the MPT (originally made by KrazyCaley for the Club Meetings mod).
+
+StormBlazed76 for the Canon MC sprites and SomeDudeNamedAyat for the MPT.
+
+#####################
+
+BACKGROUND CREDITS
+
+Kimagure After and Yagamirai for the school and courtyard backgrounds.
+
+max <3#1083 for the MC's night bedroom background.
+
+Nuxill for the living room backgrounds.
+
+######################
+
+CG CREDITS
+
+BlackRabbitArtworks for the Monika and Kotonoha beach CG.
+
+Kelsuis for the Natsuki cupcake CG.
+
+Spirtowochka for the Yuri CG.
+
+######################
+
+GUI CREDITS
+
+u/BBoi926 for the Monika Discord RPC picture (https://www.reddit.com/r/DDLC/comments/qsmdff/monika_believes_in_you/).
+
+Elckarow for the vfx when clicking effects.
+
+iiTzWolfyy for the nameboxes.
+
+u/KID-X-ec for the logo template (https://www.reddit.com/r/DDLC/comments/xsssr8/free_ddlc_logo_templates_for_modders/)
+
+Leomonade33 for a lot of the UI assets, including the menu boxes, textboxes, and the menu sidebar.
+
+NotFrosted, Silversnow__, and r.river for the splash transition screens.
+
+Silversnow__ for the Sayori and Natsuki chibi sprites (shown on the Team Salvato logo).
+
+SlightlySimple and Cyrke for the Kotonoha chibi sprite (shown on the Team Salvato logo).
+
+######################
+
+FONT CREDITS
+
+Adam Jagosz for the Tektur font
+
+Astigmatic for the Lugrasimo font (Kotonoha's font).
+
+Eduardo Tunni for the Lumanosimo font (MC's font).
+
+Mooniak for Stick No Bills font (main menu font).
+
+Robert Leuschke for the Alumni Sans Inline One font (character name font).
+
+Ryoichi Tsunekawa for the Sometype Mono font (Font for the dialogue).
+
+######################
+
+DokiDesk UI
+
+Keita for the Music Player.
+
+Krs18 for the overall UI.
+
+######################
+
+Better EMR Phone
+
+Elckarow for the phone :fridge:
+
+Zachmanawesomeness for Monika, Natsuki, Yuri, Sayori, and MC's phone icon
+
+ZachAttack92217 for Kotonoha's phone icon
